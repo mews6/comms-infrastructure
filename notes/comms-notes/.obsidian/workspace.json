@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "9b98fb698321576f",
+    "type": "split",
+    "children": [
+      {
+        "id": "46be7cec24e1d77d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbc6237186d161b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 1/Introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61b8892b906c4c2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "0a68a03c56e21b24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e77b615513dfe4b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d5c66e3867cd701d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e17352492cb7063e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48b27b3458480d17",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "db3c534ce63e31b0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "446c8ace328dc17f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c22db3cd7a6aac6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1e2f2839df54f6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff873b1347debf4a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0902a57fcd3534e5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9b9a873841c30cc3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d483e2c0e1f9b701",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2e77b615513dfe4b",
+  "lastOpenFiles": [
+    "Index.md",
+    "Chapter 1/What is the Internet?.md",
+    "Chapter 1/Introduction.md",
+    "Chapter 1/Untitled",
+    "Chapter 2/Untitled.md",
+    "Chapter 2/Untitled 1.md",
+    "Chapter 2",
+    "Welcome.md",
+    "Chapter 1"
+  ]
+}
