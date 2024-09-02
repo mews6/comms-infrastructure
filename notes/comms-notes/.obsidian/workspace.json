@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "46be7cec24e1d77d",
+        "id": "ed3c8fd7855316bd",
         "type": "tabs",
         "children": [
           {
@@ -13,45 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 1/Introduction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61b8892b906c4c2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45f6181b3eaa0a6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 1/Host.md",
+                "file": "Chapter 1/Transmission Rate.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
-        "id": "0a68a03c56e21b24",
+        "id": "46be7cec24e1d77d",
         "type": "tabs",
         "children": [
           {
-            "id": "2e77b615513dfe4b",
+            "id": "61b8892b906c4c2e",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -124,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 1/Host.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 1/Host.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Chapter 1/Host.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -185,12 +156,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45f6181b3eaa0a6d",
+  "active": "61b8892b906c4c2e",
   "lastOpenFiles": [
+    "Chapter 1/Transmission Rate.md",
     "Chapter 1/Introduction.md",
-    "Chapter 1/What is the Internet?.md",
     "Index.md",
     "Chapter 1/Host.md",
+    "Chapter 1/What is the Internet?.md",
     "Interesting little videos.md",
     "Chapter 1/Untitled",
     "Chapter 2/Untitled.md",
