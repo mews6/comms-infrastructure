@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "45f6181b3eaa0a6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 1/Host.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "0a68a03c56e21b24",
@@ -112,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 1/Introduction.md",
+                "file": "Chapter 1/Host.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 1/Introduction.md",
+                "file": "Chapter 1/Host.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 1/Introduction.md"
+                "file": "Chapter 1/Host.md"
               }
             }
           }
@@ -173,11 +185,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e77b615513dfe4b",
+  "active": "45f6181b3eaa0a6d",
   "lastOpenFiles": [
-    "Index.md",
-    "Chapter 1/What is the Internet?.md",
     "Chapter 1/Introduction.md",
+    "Chapter 1/What is the Internet?.md",
+    "Index.md",
+    "Chapter 1/Host.md",
+    "Interesting little videos.md",
     "Chapter 1/Untitled",
     "Chapter 2/Untitled.md",
     "Chapter 2/Untitled 1.md",

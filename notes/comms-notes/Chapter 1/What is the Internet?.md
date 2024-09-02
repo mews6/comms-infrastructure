@@ -1,1 +1,1 @@
-The internet is, in essence, a group of interconnected computers. We are setting this system up through a series of [[Protocols]] for which we define the parameters so different machines can 
+The internet is, in essence, an enormous group of interconnected computers measured in the billions. We are setting this system up through a series of [[Protocols]] for which we define the parameters so different machines can "talk" to each other. We'll call a computer that communicates through a protocol a "[[Host]]".
